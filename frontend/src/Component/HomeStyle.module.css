@@ -1,0 +1,108 @@
+ .container {
+     height: 30vh;
+     width: 100%;
+     /* background-color: cyan; */
+     /* background-color: white; */
+ }
+
+ /* background: #0274be;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial; */
+ /* background-size: cover; */
+ /* background-position: center; */
+ /* background-image: url(../Assets/backgroundimage.jpg); */
+ /* } */
+
+ .page {
+     height: 20vh;
+     width: 80%;
+     /* background-color: red; */
+     margin: auto;
+     margin-top: 80px;
+     display: flex;
+ }
+
+ .page .heading3 {
+     width: 50%;
+     font-size: 50px;
+     font-weight: 600;
+     /* display: inline; */
+ }
+
+ .page .para1 {
+     width: 50%;
+     display: flex;
+     justify-content: space-around;
+     /* align-items: center; */
+     margin-top: 40px;
+     font-size: 45px;
+ }
+
+ .latest {
+     height: 30vh;
+     width: 100%;
+     /* background-color: violet; */
+     margin-top: 30px;
+ }
+
+ .latest .innerlatest {
+     margin: auto;
+     width: 80%;
+     height: 100%;
+     /* background-color: aquamarine; */
+     display: flex;
+ }
+
+ .innerlatest .heading5 {
+     font-size: 40px;
+     margin-top: -15px;
+ }
+
+ .innerlatest .para5 {
+     text-transform: capitalize;
+     font-weight: 400;
+     letter-spacing: 1px;
+ }
+
+ .div1 {
+     width: 30%;
+     /* background-color: yellow; */
+ }
+
+ .div2 {
+     width: 45%;
+     /* background-color: violet; */
+ }
+
+ .div3 {
+     width: 25%;
+     margin-top: -40px;
+     /* background-color: tomato; */
+ }
+
+ .div3 .btn3 {
+     width: 80%;
+     margin-left: 20px;
+     background-color: rgb(255, 111, 0);
+     border-radius: 15px;
+ }
+
+ .card {
+     display: flex;
+     justify-content: space-around;
+     margin-bottom: 85px;
+     flex-wrap: wrap;
+ }
+
+ .link_text {
+     width: 100%;
+     padding: 0.5rem 0rem;
+     color: white;
+     text-decoration: none;
+ }

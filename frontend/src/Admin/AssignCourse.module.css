@@ -1,0 +1,33 @@
+.opt {
+    color: rgb(223, 126, 0);
+}
+
+.successMessage {
+    color: green;
+}
+
+.errorMessage {
+    color: red;
+}
+
+.super3 {
+    display: flex;
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    width: 120%;
+    position: relative;
+    right: 5%;
+    
+}
+
+.form {
+    background-color: rgb(27, 25, 25);
+    color: rgb(143, 56, 56);
+    margin: 10px 150px;
+   
+}
+#studentSelect{
+    background-color: aqua;
+}

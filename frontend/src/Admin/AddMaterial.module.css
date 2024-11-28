@@ -1,0 +1,67 @@
+.container {
+  min-width: 100%;
+  margin: 0 10%;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: black;
+  height: 100vh;
+
+}
+
+.frm {
+  margin-top: 1%;
+  background-color: rgb(48, 43, 43);
+  margin-left: 150px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.inputGroup {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+select,
+input[type="text"],
+input[type="file"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: rgb(13, 13, 13);
+}
+
+.opt {
+  color: black;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.successMessage {
+  color: green;
+}
+
+.errorMessage {
+  color: red;
+}
+
+.super4 {
+  display: flex;
+}

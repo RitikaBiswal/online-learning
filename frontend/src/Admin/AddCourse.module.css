@@ -1,0 +1,58 @@
+/* * {
+  color: white;
+} */
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.form1 {
+  display: flex;
+  flex-direction: column;
+  margin: 16px 110px;
+  color: white;
+  background-color: rgb(43, 39, 39);
+}
+
+label {
+  margin-bottom: 0.5rem;
+}
+
+input[type='text'],
+textarea {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  color: black;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.message {
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.h {
+  margin-right: 40px;
+  color: #b7c4d2;
+}
+
+.txtarea {
+  color: black;
+  border-radius: 10px;
+  padding: 12px 0px;
+}
+
+.super1 {
+  display: flex;
+}

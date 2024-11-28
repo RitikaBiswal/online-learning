@@ -1,0 +1,11 @@
+.cntnr{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    /* margin-bottom: 20px; */
+    background-image: linear-gradient(to bottom right, #ffffff, #0077cc);
+    padding: 10px 20px;
+}
